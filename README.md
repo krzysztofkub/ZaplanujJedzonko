@@ -1,5 +1,4 @@
-Scrum Lab.
-
+Scrum
 
 
 
