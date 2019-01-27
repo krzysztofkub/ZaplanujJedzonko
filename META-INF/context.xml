@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/zaplanujjedzonko"
+              auth="Container"
+              type="javax.sql.DataSource"
+              username="root"
+              password="coderslab"
+              driverClassName="com.mysql.jdbc.Driver"
+              connectionProperties="useUnicode=yes;characterEncoding=utf8;"
+              url="jdbc:mysql://zaplanujjedzonko.cxk9wgz7s5d6.eu-west-1.rds.amazonaws.com:3306/zaplanujjedzonko"
+              maxTotal="100"
+              maxIdle="30"
+              maxWaitMillis="10000" />
+</Context>
