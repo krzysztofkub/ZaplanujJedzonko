@@ -1,5 +1,5 @@
 # Zaplanuj jedzonko
-Web app for making diet plans (http://zaplanujjedzonko.eu-west-1.elasticbeanstalk.com).
+Web app for making diet plans.
 
 TECHNOLOGIES: JAVA, JDBC, JS, JSP, SERVLETY, SCRUM, GIT-FLOW, MAVEN
 
